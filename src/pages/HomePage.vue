@@ -85,7 +85,7 @@
         <header>
             <VueLogo />
         </header>
-        <h1>Your Tuemplate is up and running! 🚀</h1>
+        <h1>Abdul sta venendo a prenderti, preparati! 😋</h1>
         <div>
             <AppButton theme="success" @click="emitSuccess">
                 Success
